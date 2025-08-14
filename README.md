@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Keaunie
 
 Senior Web Developer with a passion for crafting **one-of-a-kind digital experiences**.  
-Business Intelligence Architect at **Golden Mango Pictures**, designing Snowflake schemas that turn raw data into cinematic insight.
-
-> I love blending creativity with precision — whether it's a luxury website, a FiveM server, or a data model that tells a story.
+I love blending creativity with precision — whether it's a luxury website, a FiveM server, or experimenting with LLMs and data modeling.
 
 ---
 
@@ -14,6 +12,9 @@ Business Intelligence Architect at **Golden Mango Pictures**, designing Snowflak
 
 - 🎮 **FiveM Server Development**  
   Hobbyist developer and player in the FiveM community — creating custom RP environments and server logic.
+
+- 🤖 **LLM Exploration & AI Integration**  
+  Actively learning and experimenting with large language models to enhance automation, UX, and intelligent systems.
 
 - ⚙️ **Automation & Integration**  
   Skilled in Supabase, Guesty API, n8n, Crisp, Zapier, SIP/VoIP, and more.
@@ -28,10 +29,9 @@ Business Intelligence Architect at **Golden Mango Pictures**, designing Snowflak
 
 ## 🚀 Current Focus
 
-- Designing a robust Snowflake schema for **Golden Mango Pictures**  
-- Validating normalized hierarchies and flexible join paths  
-- Spotting schema gaps and iterating fast for real-world business impact  
-- Experimenting with custom FiveM server logic and immersive RP mechanics
+- Building immersive web experiences with luxury-grade polish  
+- Experimenting with custom FiveM server logic and RP mechanics  
+- Learning and applying LLMs for smarter automation and user interaction
 
 ---
 
@@ -51,15 +51,15 @@ Business Intelligence Architect at **Golden Mango Pictures**, designing Snowflak
 
 > “Every website should feel like stepping into a story — elegant, intuitive, and unforgettable.”
 
-Whether it's a luxury brand, a creative portfolio, or a FiveM RP server, I aim to build experiences that resonate.
+Whether it's a luxury brand, a creative portfolio, a FiveM RP server, or an AI-powered interface, I aim to build experiences that resonate.
 
 ---
 
 ## 📫 Let's Connect
 
 - 🌐 [oneluxstay.com](https://oneluxstay.com)
-- 📧 keaunie@protonmail.com
-- 🐦 [@keaunie](https://twitter.com/keaunie)
+- 📧 keaunieting@gmail.com
+- 📸 [@kyooooooooooooo0](https://www.instagram.com/kyooooooooooooo0/)
 
 ---
 
